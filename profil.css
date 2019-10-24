@@ -178,3 +178,14 @@ a {
   padding-bottom: 10px;
   background-color: #ddd;
 }
+.col-md-9 no-padding{
+  border-left: 1px solid;
+
+}
+.panel {
+  background: #2196F3;
+}
+.nama a{
+  border-top-style: unset;;
+  float:right;
+}
